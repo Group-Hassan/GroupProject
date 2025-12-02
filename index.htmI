@@ -1,14 +1,48 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Our Cloud Project</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Cloud Project — Group</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
-    <h1>Welcome to Our Cloud Project</h1>
-    <p>We are Group Hassan from DMD243.</p>
-    <img src="https://via.placeholder.com/200" alt="Group Logo">
-    <p>Check our GitHub Pages website: <a href="https://group-hassan.github.io/GroupProject/">GitHub Pages Link</a></p>
+  <header>
+    <h1>Cloud Project — Group</h1>
+    <p>Members:</p>
+    <ul>
+      <li>Hassan Ghazwani — 202509097</li>
+      <li>Fahad Ghazwani — 202508717</li>
+      <li>Ahmed Mohnashi — 202507449</li>
+    </ul>
+  </header>
+
+  <main>
+    <section>
+      <h2>Project Summary</h2>
+      <p>This project demonstrates cloud storage using Google Drive and website hosting using GitHub Pages.</p>
+    </section>
+
+    <section>
+      <h2>Google Drive Folder</h2>
+      <p>
+        <a href="PASTE_DRIVE_LINK_HERE" target="_blank">Open Google Drive Folder</a>
+      </p>
+    </section>
+
+    <section>
+      <h2>Uploaded Files</h2>
+      <ul>
+        <li>Project_Info_Group.docx</li>
+        <li>report.pdf</li>
+        <li>screenshot_01.png</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>Cloud Computing Course — Group</p>
+  </footer>
 </body>
 </html>
