@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to Our Cloud Project</title>
 </head>
 <body>
@@ -10,20 +9,20 @@
     <p><strong>Group Hassan</strong> – DMD243: Cloud Computing and Embedded Systems</p>
 
     <p>Team Members:<br>
-       - HassanGhazwani (Student ID: 202509097)<br>
-       - FahadGhazwani (Student ID: 202508717)<br>
-       - AhmedMahnsi (Student ID: 202507449)
+       - Hassan Ghazwani (202509097)<br>
+       - Fahad Ghazwani (202508717)<br>
+       - Ahmed Mahnsi (202507449)
     </p>
 
     <p>This is our simple website hosted on GitHub Pages as part of our cloud computing project.</p>
 
-    <!-- Image (placeholder - works without uploading) -->
-    <img src="https://via.placeholder.com/300x150?text=Group+Hassan" alt="Group Logo" style="display: block; margin: 20px 0;">
+    <!-- Image -->
+    <img src="https://via.placeholder.com/300x150?text=Group+Hassan" alt="Group Logo" style="margin: 20px 0;">
 
-    <!-- Link to Google Drive folder -->
+    <!-- Link -->
     <p>
-        🔗 <a href="https://drive.google.com/drive/folders/YOUR_FOLDER_ID_HERE" target="_blank">
-            View Our Google Drive Folder
+        🔗 <a href="https://group-hassan.github.io/GroupProject/" target="_blank">
+            View this page on GitHub Pages
         </a>
     </p>
 </body>
