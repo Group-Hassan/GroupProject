@@ -2,12 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to Our Cloud Project</title>
 </head>
 <body>
     <h1>Welcome to Our Cloud Project</h1>
     <p>We are Group Hassan from DMD243.</p>
     <img src="https://via.placeholder.com/200" alt="Group Logo">
-    <p>Check our Google Drive folder: <a href="https://drive.google.com/...">Google Drive Link</a></p>
+    <p>Check our GitHub Pages website: <a href="https://group-hassan.github.io/GroupProject/">GitHub Pages Link</a></p>
 </body>
 </html>
