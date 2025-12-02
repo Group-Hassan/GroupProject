@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Our Cloud Project</title>
+</head>
+<body>
+  <h1>Welcome to Our Cloud Project</h1>
+  <p>We are Group <strong>X</strong>. This website is part of our cloud storage and hosting project (DMD243).</p>
+
+  <h2>Group Members</h2>
+  <ul>
+    <li>Member 1 — 123456</li>
+    <li>Member 2 — 234567</li>
+    <li>Member 3 — 345678</li>
+  </ul>
+
+  <p>Google Drive Project Folder: 
+     <a href="PUT_DRIVE_LINK_HERE" target="_blank">Click here to open</a>
+  </p>
+
+  <img src="image.png" alt="Project Image" style="max-width:300px;"/>
+
+  <p>Thank you for visiting our site.</p>
+</body>
+</html>
